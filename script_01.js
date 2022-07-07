@@ -1,4 +1,3 @@
 
-/* Test */
-
+Test
 console.log("Hello, World");
